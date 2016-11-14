@@ -19,7 +19,7 @@
 	<section class="hero">
 		<header>
 			<div class="wrapper">
-				<a href="#"><img src="img/cmc-logo.jpg" class="logo"></a>
+				<a href="#"><img src="img/cmc-logo.jpg" class="logo" width="300px"></a>
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<ul>

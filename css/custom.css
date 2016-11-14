@@ -1,3 +1,8 @@
 span.logo {
   font-family: "lato-regular", Helvetica, Arial, sans-serif;
+
+}
+
+header .logo {
+  margin-top: 10px;
 }

@@ -19,7 +19,7 @@
 	<section class="hero">
 		<header>
 			<div class="wrapper">
-				<a href="#"><span class="logo">CMC GUAM</span></a>
+				<a href="#"><img src="img/cmc-logo.jpg" class="logo"></a>
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<ul>
@@ -244,6 +244,5 @@
 		</div>
 	</footer><!--  end footer  -->
 
-<script>alert("WEBSITE UNDER CONSTRUCTION");</script>
 </body>
 </html>

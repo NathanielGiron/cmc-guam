@@ -35,7 +35,7 @@
 		</header><!--  end header section  -->
 
 			<section class="caption">
-				<h2 class="caption">Find You Dream Home</h2>
+				<h2 class="caption">Find Your Dream Home</h2>
 				<h3 class="properties">Save money and get better service with CMC</h3>
 			</section>
 	</section><!--  end hero section  -->
